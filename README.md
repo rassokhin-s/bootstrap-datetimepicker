@@ -1,38 +1,44 @@
-# Date Range Picker
+# Bootstrap 3 Date/Time Picker
+![GitHub version](https://badge.fury.io/gh/Eonasdan%2Fbootstrap-datetimepicker.png)&nbsp;&nbsp;&nbsp;![Travis](https://travis-ci.org/Eonasdan/bootstrap-datetimepicker.svg?branch=development)
 
-![Improvely.com](https://i.imgur.com/UTRlaar.png)
+![DateTimePicker](http://i.imgur.com/nfnvh5g.png)
 
-This date range picker component creates a dropdown menu from which a user can
-select a range of dates. I created it while building the UI for [Improvely](http://www.improvely.com),
-which needed a way to select date ranges for reports.
+## [View the manual and demos](http://eonasdan.github.io/bootstrap-datetimepicker/)
 
-Features include limiting the selectable date range, localizable strings and date formats,
-a single date picker mode, a time picker, and predefined date ranges.
+#Notice
+The issue tracker is now solely for bug reports.
 
-## [Documentation and Live Usage Examples](http://www.daterangepicker.com)
+SO: http://stackoverflow.com/tags/eonasdan-datetimepicker
 
-## [See It In a Live Application](https://awio.iljmp.com/5/drpdemogh)
+New issues that are requests for "how do I.." will be closed and redirected to Stack Overflow.
 
-## License
+# v4.17.42
 
-The MIT License (MIT)
+Is the current stable release. The latest and greatest changes are available from the [development branch](https://github.com/Eonasdan/bootstrap-datetimepicker/tree/development)
 
-Copyright (c) 2012-2018 Dan Grossman
+# Version 5
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+IMPORTANT! The Nuget packages will be depreciated in this release. Moving forward, Asp.Net/Nuget will **NOT** be delivering content packages like this one and you will need to use bower. See [this issue for more]( https://github.com/Eonasdan/bootstrap-datetimepicker/issues/1128)
 
-The above copyright notice and this permission notice shall be included in
-all copies or substantial portions of the Software.
+v5 is [in planning](https://github.com/Eonasdan/bootstrap-datetimepicker/issues/841). We welcome your suggestions.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
+A major update is a great time to make be able to make breaking changes.
+
+## Submitting Issues
+If you have issues, please check the following first:
+* Have you read the docs? 
+* Do you have the latest version of momentjs?
+* Do you have the latest version of jQuery?
+* Please test and/or fork [this jsfiddle](http://jsfiddle.net/Eonasdan/0Ltv25o8/) with an example of your issue before you post an issue here. 
+* Please indicate which version of the picker you are using (this can be found at the top of any included file)
+
+## Where do you use this?
+I'd love to know if your public site is using this plugin and list your logo on the documentation site. Please email me `me at eonasdan dot com`.
+
+##Priority support is available at an hourly rate. 
+
+If you have an urgent request, bug or need installation help, please contact me at `me at eonasdan dot com` for a quote.
+
+## [Installation instructions](http://eonasdan.github.io/bootstrap-datetimepicker/Installing/)
+
+## [Change Log](http://eonasdan.github.io/bootstrap-datetimepicker/Changelog/)
