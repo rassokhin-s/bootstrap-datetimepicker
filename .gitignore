@@ -10,3 +10,7 @@ site
 *.sln
 *.nupkg
 index.html
+npm-debug.log
+*.sublime-workspace
+*.sublime-project
+*.sw[onp]
